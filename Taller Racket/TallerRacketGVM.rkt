@@ -130,7 +130,7 @@
     (else '())))                                   ; Lista vacía
 
 ;; Ejemplo de uso
-(BFS grafo 'F)  ; Esto debería devolver '(A B C D E F)
+(BFS grafo 'A)  ; Esto debería devolver '(A B C D E F)
 
 
 ;9
