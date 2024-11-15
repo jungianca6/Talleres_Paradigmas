@@ -1,0 +1,9 @@
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/Millas.dir
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/Celsius.dir
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/Digitos.dir
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/DigitosPares.dir
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/strcmp.dir
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/strcat.dir
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/listarPalabras.dir
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

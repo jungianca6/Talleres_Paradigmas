@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Taller_Imperativo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Celsius::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Celsius-Debug-923f0a8f928a7890bdaa.json",
+					"name" : "Celsius",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Digitos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Digitos-Debug-a7f0f0b653e4f0054a41.json",
+					"name" : "Digitos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DigitosPares::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DigitosPares-Debug-648bfc066544a03aa832.json",
+					"name" : "DigitosPares",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Millas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Millas-Debug-dd8299fa1ef848ec3116.json",
+					"name" : "Millas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "listarPalabras::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-listarPalabras-Debug-29b337ea169b3f40d0b0.json",
+					"name" : "listarPalabras",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strcat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strcat-Debug-2561fc8df288c4885c4c.json",
+					"name" : "strcat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strcmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strcmp-Debug-7d26e38307769751e493.json",
+					"name" : "strcmp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo/cmake-build-debug",
+		"source" : "/home/dell/Escritorio/Talleres_Paradigmas/Taller Imperativo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
